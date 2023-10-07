@@ -78,7 +78,7 @@ let isAdult = age >= 18 ? "yes" : " no"
 
 let counter = 5
 counter --
-// console.log(counter)
+console.log(counter)
 
 //sting concatenation
 //typeOf
@@ -87,7 +87,7 @@ counter --
 
 let z = 5
 let pre = z++
-console.log(pre)
+// console.log(pre)
 
 
 
